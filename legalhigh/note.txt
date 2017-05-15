@@ -1,0 +1,5 @@
+jquery在其他js文件之前引用
+.val("")用来清空值
+为了防止jquery与js原生方法冲突，整个jquery用(function($){})(jQuery);包裹起来。
+添加css：top时注意，被添加的对象原来必须有postion:absoluate;的css布局属性，要不然不起作用
+jquery已经没有mousemove,mouseover,mouseout等方法，全部用hover(a,b)代替了
