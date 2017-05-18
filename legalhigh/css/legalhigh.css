@@ -124,7 +124,7 @@ select::-ms-expand { display: none; }
     position: absolute;;
     top: 8.5rem;
     right: 0;
-    width: 23rem;
+    width: 25rem;
     background-color: ghostwhite;
     border: 2px solid ghostwhite;
     padding: 10px 10px 10px 10px;
@@ -162,7 +162,7 @@ select::-ms-expand { display: none; }
 }
 
 .formtips{
-    font-size: 0.2rem;
+    font-size: 10px;
 }
 
 .onerror{
